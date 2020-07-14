@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÜÍ®
+q	java:S116
+"PRename this field "RESET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô†Á•ıÿÿÿÿ8¨£Ğú´.
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ĞÎı8÷ëĞú´.
+C
+java:S1170"!Make this final field static too.(Æ®¹şÿÿÿÿ8¨£Ğú´.
+C
+java:S1170
+"!Make this final field static too.(ô†Á•ıÿÿÿÿ8¨£Ğú´.
+o	java:S116"NRename this field "RED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ®¹şÿÿÿÿ8¨£Ğú´.
+™
+java:S1319"wThe type of the "destinations" object should be an interface such as "List" rather than the implementation "ArrayList".(æú§¯øÿÿÿÿ8¨£Ğú´.

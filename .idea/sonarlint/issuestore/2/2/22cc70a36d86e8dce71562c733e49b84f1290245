@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÜÍ®
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü—˜Ôúÿÿÿÿ
+‘
+java:S1319"tThe type of the "addresses" object should be an interface such as "List" rather than the implementation "ArrayList".(‡šäê8êøÌú´.
+—
+java:S1319"zThe type of the "numberOfPackets" object should be an interface such as "List" rather than the implementation "ArrayList".(‡šäê8êøÌú´.
+Œ
+java:S1319w"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Î¦ÁX8êøÌú´.
