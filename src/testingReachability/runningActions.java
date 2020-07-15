@@ -31,16 +31,11 @@ public class runningActions {
                 out.println("***Trying to " + "ping " + RED + this.addresses.get(i) + RESET);
                 String line;
                 boolean check = true;
-                if (reader.readLine() == null) {
-                    check = false;
-                    out.println("--- address is not reachable");
-                }
+
                 while ((line = reader.readLine()) != null) {
                     out.println(line);
                 }
-                if (check) {
-                    out.println("--- address is reachable ---");
-                }
+
             }
         }
 

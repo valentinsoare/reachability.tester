@@ -26,17 +26,8 @@ public class readyForAction {
             String line = "";
             boolean check = true;
 
-            if (reader.readLine() == null) {
-                check = false;
-                out.println(RED + "--- address is not reachable." + RESET);
-            }
-
             while ((line = reader.readLine()) != null) {
                 out.println(line);
-            }
-
-            if (check) {
-                out.println("--- address is reachable.");
             }
         }
     }
